@@ -1,0 +1,9 @@
+[submodule "C-Lab01-24961"]
+	path = C-Lab01-24961
+	url = https://github.com/AyoItsYas/C-Lab01-24961.git
+[submodule "C-Lab02-24961"]
+	path = C-Lab02-24961
+	url = https://github.com/AyoItsYas/C-Lab02-24961.git
+[submodule "C-Lab03-24961"]
+	path = C-Lab03-24961
+	url = https://github.com/AyoItsYas/C-Lab03-24961.git
